@@ -64,3 +64,11 @@ ls --color=auto
 -l
 -1
 ls --color=auto -l
+ls --color=auto has
+ls --color=auto -l has
+cd ..
+ls --color=auto has
+lscd has
+cd has
+cd node_modules
+cd has
