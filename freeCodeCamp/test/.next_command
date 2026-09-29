@@ -84,3 +84,5 @@ ls --color=auto
 more index.js
 pwd
 ls --color=auto
+more index
+more index.js
