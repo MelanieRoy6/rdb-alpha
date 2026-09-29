@@ -200,3 +200,10 @@ mkdir assets/images
 mkdir images
 cd images
 touch background.jpg
+cd ../..
+cd ..
+cd client
+cd images
+cd assets
+cd images
+cd ../../..
