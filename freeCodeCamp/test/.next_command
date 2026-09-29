@@ -89,3 +89,5 @@ more index.js
 ls --color=auto has
 has
 cd ..
+ls --color=auto
+cd ..
