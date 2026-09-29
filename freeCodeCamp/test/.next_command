@@ -72,3 +72,4 @@ lscd has
 cd has
 cd node_modules
 cd has
+ls --color=auto
