@@ -242,3 +242,5 @@ tree
 __vsc_prompt_cmd_original
 find
 rmdir images
+rm images/bckground.jpg
+rm images/background.jpg
