@@ -158,3 +158,4 @@ ls --color=auto
 mv roboto.font robot.woff
 ls --color=auto
 mv robot.woff roboto.woff
+ls --color=auto
