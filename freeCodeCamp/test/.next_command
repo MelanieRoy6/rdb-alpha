@@ -261,3 +261,5 @@ ls --color=auto
 mv freeCodeCamp.svg client/assets/icons
 free
 find
+ls --color=auto
+mkdir client/assets/fonts
