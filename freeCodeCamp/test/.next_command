@@ -91,3 +91,14 @@ has
 cd ..
 ls --color=auto
 cd ..
+cd project / node_modules
+cd project
+cd .. / ..
+cd ..
+cd ..
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd nos_modules
+cd node_modules
+cd ../..
