@@ -315,3 +315,4 @@ ls --color=auto
 find website-boilerplate
 claer
 clear
+echo goodbye terminal
