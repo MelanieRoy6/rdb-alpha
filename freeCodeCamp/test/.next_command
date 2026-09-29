@@ -207,3 +207,15 @@ cd images
 cd assets
 cd images
 cd ../../..
+ls --color=auto
+mv images client/assets/images
+cd client/assets/images
+ls --color=auto
+cd ../../..
+mv client/assets/images/images
+mv client/assets/images/images .
+ls --color=auto
+cd client/assets/images
+cd ../../..
+ls --color=auto
+cd images
