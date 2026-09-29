@@ -255,3 +255,5 @@ cp ../freeCodeCamp/reset_files/website/CodeAlly.svg .
 ls --color=auto
 mv CodeAlly.svg client/assets/icons
 find
+find -name CodeAlly.svg
+mv CodeRoad.svg client/assets/icons
