@@ -80,3 +80,6 @@ more LICENSE-MIT
 clear
 ls --color=auto
 cd src
+ls --color=auto
+more index.js
+pwd
