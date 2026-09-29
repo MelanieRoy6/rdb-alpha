@@ -102,3 +102,4 @@ ls --color=auto
 cd nos_modules
 cd node_modules
 cd ../..
+ls --color=auto
