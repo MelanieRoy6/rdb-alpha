@@ -188,3 +188,5 @@ find -index.html
 find -nam
 find -name
 find -name index.html
+find -name style.css
+find -name styles.css
