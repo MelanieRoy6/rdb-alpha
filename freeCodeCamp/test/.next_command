@@ -184,3 +184,7 @@ ls --color=auto --help
 find --help
 cd ..
 find --help
+find -index.html
+find -nam
+find -name
+find -name index.html
