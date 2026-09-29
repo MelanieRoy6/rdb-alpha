@@ -244,3 +244,4 @@ find
 rmdir images
 rm images/bckground.jpg
 rm images/background.jpg
+rmdir images
